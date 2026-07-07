@@ -1,3 +1,1 @@
-# laravel-react-demo
-
-- Data Tables
+# Cars list from the DB searching, sorting and filtering
